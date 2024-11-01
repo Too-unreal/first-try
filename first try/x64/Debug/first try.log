@@ -1,0 +1,3 @@
+﻿  first try.cpp
+C:\Users\Home PC\source\repos\first try\first try\first try.cpp(122,47): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  first try.vcxproj -> C:\Users\Home PC\source\repos\first try\x64\Debug\first try.exe
